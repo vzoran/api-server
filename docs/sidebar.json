@@ -8,6 +8,11 @@
     {
       "type": "api-ref",
       "label": "API Reference"
+    },
+    {
+      "type": "doc",
+      "id": "nextpage",
+      "label": "Custom Page"
     }
   ]
 }
